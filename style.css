@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #d4b8ce;
+    background-color: #020202e8;
+    
     margin: 0;
     padding: 0;
 }
@@ -56,4 +57,11 @@ button {
     margin-top: 20px;
     color: red;
     font-weight: bold;
+}
+.weather-info{
+    background-color: #007BFF;
+    border-radius: 50px;
+}
+#searchButton{
+    
 }
